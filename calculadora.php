@@ -60,12 +60,6 @@
                 </div>
                 <div class="art-logo">
                 	<h1 class="art-logo-name"><a href="./index.php">Calculadora de pre&ccedil;os de produtos</a></h1>
-                	<h6>
-                		<?php 
-                		$host = getenv('HOST');
-                		echo $host;
-                		?>
-                	</h6>
                     <h2 class="art-logo-text">por c&oacute;digo de barras</h2>
                 </div>
             </div>

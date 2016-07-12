@@ -139,9 +139,7 @@
                 <div class="art-footer-r"></div>
                 <div class="art-footer-body">
     			<div class="art-footer-text">
-    				<p style="text-align: right;">
-    					Contato: bferronato@gmail.com	
-    				</p>
+    			    Contato: bferronato@gmail.com
     			</div>
                 <div class="cleared"></div>
                 </div>

@@ -1750,10 +1750,10 @@ h2.art-postheader a:hover,  h2.art-postheader a.hovered
 
 .art-footer-text
 {
-  min-height: 33px;
+  /*min-height: 33px;*/
   padding-left: 10px;
-  padding-right: 10px;
-  text-align: center;
+  /*padding-right: 10px;*/
+  text-align: right;
 }
 
 .art-footer-text a,

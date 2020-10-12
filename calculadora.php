@@ -6,7 +6,7 @@
     Base template (without user's data) checked by http://validator.w3.org : "This page is valid XHTML 1.0 Transitional"
     -->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>Calculadora</title>
+    <title>Calculadora.</title>
     <meta name="description" content="Description" />
     <meta name="keywords" content="Keywords" />
 
